@@ -1,0 +1,28 @@
+.addButton, .removeButton {
+    width: 40px;
+}
+
+.addButton {
+    background-color: green;
+}
+
+.removeButton {
+    background-color:red;
+}
+
+.menuBox {
+    width: 500px;
+    margin: 20px;
+    padding: 40px;
+    border: 2px solid black;
+    background-color: #eee;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.restaurantName {
+    margin-bottom: 30px;
+    text-decoration: underline;
+}

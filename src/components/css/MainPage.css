@@ -1,0 +1,10 @@
+.MainPageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.MainPageTitle {
+    color: #eee;
+    margin: 40px 0;
+}
